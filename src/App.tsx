@@ -285,7 +285,7 @@ const TheCellar = () => {
         <div className="grid md:grid-cols-3 gap-8">
           {[
             { title: "Vini Siciliani", desc: "Dai bianchi dell'Etna ai rossi intensi del ragusano.", img: "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&q=80&w=600" },
-            { title: "Degustazioni", desc: "Percorsi guidati tra i sentori della nostra isola.", img: "https://images.unsplash.com/photo-1553112398-c305834863c6?auto=format&fit=crop&q=80&w=600" },
+            { title: "Degustazioni", desc: "Percorsi guidati tra i sentori della nostra isola.", img: "https://www.pexels.com/it-it/@raffilina-2160328674/downloads/ },
             { title: "Etichette Pregiate", desc: "Una selezione curata per i palati più esigenti.", img: "https://images.unsplash.com/photo-1506377247377-2a5b3b0ca7df?auto=format&fit=crop&q=80&w=600" }
           ].map((item, i) => (
             <motion.div 
